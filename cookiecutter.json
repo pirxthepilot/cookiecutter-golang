@@ -1,0 +1,7 @@
+{
+    "full_name": "Joon Guillen",
+    "github_username": "pirxthepilot",
+    "project_name": "foobar",
+    "project_short_description": "A Golang project.",
+    "open_source_license": ["MIT license", "Apache Software License 2.0", "GNU General Public License v3"]
+}

@@ -1,0 +1,4 @@
+/{{cookiecutter.project_name}}
+/vendor
+*.swp
+*.log
