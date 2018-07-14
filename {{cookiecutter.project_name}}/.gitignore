@@ -1,4 +1,6 @@
 /{{cookiecutter.project_name}}
 /vendor
+/build
 *.swp
 *.log
+*.DS_Store
